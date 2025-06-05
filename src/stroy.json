@@ -1,0 +1,38 @@
+{
+    "story":[
+        {
+            "name":"Radha",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radharani_10.JPG/800px-Radharani_10.JPG"
+        },
+
+        {
+            "name":"Krishna",
+            "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F2366672.jpg&f=1&nofb=1&ipt=1df3b466210ef029fa8c8bbf4b7aa02d12314dd1b507138a4cba9ce5fd30147b"
+
+        },
+         {
+            "name":"Hanuman",
+            "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flatestforyouth.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fhanuman-4236.jpg&f=1&nofb=1&ipt=70a4e3b19b2fc9485896d64568732d41716a49df7316cb636ebdd51814fa397d"
+
+        }, {
+            "name":"Vishnu",
+            "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1428344.jpg&f=1&nofb=1&ipt=1cca904c43f3cb6d0c4d97b1b41f90fa901c44b60b4ccb5c276696b34998f484"
+
+        }, 
+        {
+            "name":"shivji",
+            "img":"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-ZnPLFxslGlU%2FUWzm5KQn0KI%2FAAAAAAAABrM%2FiB53IW3gyng%2Fs1600%2FLord_Shiva%2Bfulloriyaentertainment.blogspot.com.jpg&f=1&nofb=1&ipt=41c60236f4c37fb01537228554688c3999cf3154037b539e91c016850eb9e30b"
+
+        },
+         {
+            "name":"Maa",
+            "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Freligious-maa-sherawali-goddess-art-jw7u62w3i40lfft9.jpg&f=1&nofb=1&ipt=f504bac1054bca04541abf195912cdce43ef810b8aafd63f7799a3de2c2e4f82"
+
+        },
+          {
+            "name":"Maa",
+            "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Freligious-maa-sherawali-goddess-art-jw7u62w3i40lfft9.jpg&f=1&nofb=1&ipt=f504bac1054bca04541abf195912cdce43ef810b8aafd63f7799a3de2c2e4f82"
+
+        }
+    ]
+}

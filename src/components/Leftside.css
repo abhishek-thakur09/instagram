@@ -1,0 +1,32 @@
+.logoPart{
+
+    width: 100px;
+    height: 30px;
+    margin-left: 25px;
+    position: fixed;
+}
+.logoImg{
+    width:100%;
+    background-color: white;
+
+}
+.navLinkPart{
+    display:  flex;
+    flex-direction: column;
+    margin-top: 60px;
+    position: fixed;
+    
+}
+.navlink{
+    display: flex;
+     height: 45px;
+    align-items: center;
+    margin-top: 10px;
+
+ 
+   
+
+}
+.NavHome{
+    font-weight:600;
+}
