@@ -1,50 +1,65 @@
-.App {
-  padding: 0;
+* {
   margin: 0;
+  padding: 0;
   box-sizing: border-box;
+}
+
+.App {
   display: flex;
+  height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
 }
 
+/* Left Sidebar */
+.sidebar-left {
+  flex: 0.2;
+  background-color: #fff;
+  border-right: 1px solid #ddd;
+  padding: 1rem;
+}
 
-.leftSideHome{
-  flex: 0.15;
- 
- 
+/* Main Content */
+.main-content {
+  flex: 0.6;
+  padding: 1rem;
+  background-color: #fdfdfd;
 }
-.Middleside{
-  flex: 0.5;
-  border-left: 1px solid #e1e1e1;
- 
+
+/* Right Sidebar */
+.sidebar-right {
+  flex: 0.2;
+  background-color: #fff;
+  border-left: 1px solid #ddd;
+  padding: 1rem;
 }
-.rightside{
-  flex: 0.3;
- 
-}
-@media screen  and(min-width:920px) and(max-width:1140px){
-  .rightside{
+
+/* Medium screens (tablet) */
+@media screen and (max-width: 1140px) {
+  .sidebar-right {
     display: none;
   }
-  .leftSideHome{
-    flex: 0.2;
+
+  .sidebar-left {
+    flex: 0.25;
   }
-  .Middleside{
-    flex: 0.8;
+
+  .main-content {
+    flex: 0.75;
   }
 }
 
-
-
-@media screen  and(min-width:320px) and(max-width:920px){
-  .rightside{
+/* Small screens (mobile) */
+@media screen and (max-width: 768px) {
+  .sidebar-left {
     display: none;
   }
-  .leftSideHome{
-   display: none;
+
+  .sidebar-right {
+    display: none;
   }
-  .Middleside{
+
+  .main-content {
     flex: 1;
   }
 }
-
-
-

@@ -7,9 +7,9 @@ import RightSide from './components/rightSide';
 function App() {
   return (
     <div className="App">
-      <div className='leftSideHome'><Leftside/></div>
-       <div className='Middleside'><Middleside/></div>
-        <div className='rightside'><RightSide/></div>
+      <div className='sidebar-left'><Leftside/></div>
+       <div className='main-content'><Middleside/></div>
+        <div className='sidebar-right'><RightSide/></div>
       
     </div>
   );
